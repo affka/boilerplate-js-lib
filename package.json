@@ -1,0 +1,23 @@
+{
+  "name": "mylib",
+  "version": "0.0.1",
+  "private": true,
+  "main": "src/index",
+  "dependencies": {
+    "neatness": "*"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-minify-css": "*",
+    "gulp-uglify": "*",
+    "gulp-concat": "*",
+    "gulp-watch-less": "*",
+    "gulp-less": "*",
+    "gulp-rename": "*",
+    "vinyl-source-stream": "*",
+    "vinyl-buffer": "*",
+    "watchify": "*",
+    "browserify": "*"
+  }
+}
